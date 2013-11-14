@@ -1,0 +1,46 @@
+<configs>
+  <config width="130" fps="60" protected="false" viscosity="1" diff="0" height="130" name="default" windowSizeCoeff="3" dt="1">
+    <state density="" velX="" velY=""/>
+    <obstacles/>
+  </config>
+  <config width="130" fps="60" protected="false" viscosity="1e-05" diff="0" height="130" name="test" windowSizeCoeff="3" dt="1">
+    <state velX_src="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/test_velX_src" velY_src="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/test_velY_src" density="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/test_density" velX="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/test_velX" velY="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/test_velY" density_src="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/test_density_src"/>
+    <obstacles>
+      <segment width="10" Bx="73" Ax="73" By="114" Ay="104"/>
+      <segment width="10" Bx="42" Ax="42" By="96" Ay="86"/>
+    </obstacles>
+  </config>
+  <config width="130" fps="60" protected="false" viscosity="1e-05" diff="0" height="130" name="test2" windowSizeCoeff="3" dt="1">
+    <state velX_src="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/test2_velX_src" velY_src="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/test2_velY_src" density="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/test2_density" velX="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/test2_velX" velY="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/test2_velY" density_src="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/test2_density_src"/>
+    <obstacles>
+      <segment width="10" Bx="65" Ax="65" By="118" Ay="108"/>
+      <segment width="10" Bx="48" Ax="48" By="118" Ay="108"/>
+      <segment width="10" Bx="43" Ax="43" By="122" Ay="112"/>
+      <segment width="10" Bx="65" Ax="65" By="121" Ay="111"/>
+      <segment width="10" Bx="73" Ax="73" By="128" Ay="119"/>
+      <segment width="10" Bx="43" Ax="43" By="122" Ay="112"/>
+    </obstacles>
+  </config>
+  <config width="130" fps="60" protected="false" viscosity="1e-10" diff="0" height="130" name="VonKarman" windowSizeCoeff="3" dt="1">
+    <state velX_src="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/VonKarman_velX_src" velY_src="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/VonKarman_velY_src" density="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/VonKarman_density" velX="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/VonKarman_velX" velY="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/VonKarman_velY" density_src="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/VonKarman_density_src"/>
+    <obstacles>
+      <segment width="10" Bx="101" Ax="101" By="189" Ay="179"/>
+      <segment width="10" Bx="83" Ax="83" By="188" Ay="178"/>
+      <segment width="10" Bx="104" Ax="104" By="194" Ay="184"/>
+      <segment width="10" Bx="77" Ax="77" By="193" Ay="183"/>
+      <segment width="10" Bx="107" Ax="107" By="198" Ay="190"/>
+      <segment width="10" Bx="72" Ax="72" By="198" Ay="190"/>
+    </obstacles>
+  </config>
+  <config width="200" fps="60" protected="false" viscosity="1e-12" diff="0" height="200" name="VonKarman2" windowSizeCoeff="3" dt="1">
+    <state velX_src="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/VonKarman2_velX_src" velY_src="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/VonKarman2_velY_src" density="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/VonKarman2_density" velX="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/VonKarman2_velX" velY="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/VonKarman2_velY" density_src="/home/mbellier/Dropbox/projets/pfa/pfamecafluide-code/bin/VonKarman2_density_src"/>
+    <obstacles>
+      <segment width="10" Bx="109" Ax="109" By="198" Ay="190"/>
+      <segment width="10" Bx="103" Ax="103" By="194" Ay="184"/>
+      <segment width="10" Bx="95" Ax="95" By="188" Ay="178"/>
+      <segment width="10" Bx="78" Ax="78" By="188" Ay="178"/>
+      <segment width="10" Bx="69" Ax="69" By="194" Ay="184"/>
+      <segment width="10" Bx="62" Ax="62" By="198" Ay="190"/>
+    </obstacles>
+  </config>
+</configs>
