@@ -3,19 +3,19 @@ FluidSolver
 
 Real time 2D simulator of fluid mechanics in C++/Qt/OpenGl.
 
+See on youtube: [https://www.youtube.com/watch?v=i2-zOoBbdk0](https://www.youtube.com/watch?v=i2-zOoBbdk0)
+[![https://www.youtube.com/watch?v=i2-zOoBbdk0](https://img.youtube.com/vi/i2-zOoBbdk0/0.jpg)](
+https://www.youtube.com/watch?v=i2-zOoBbdk0)
 
 
 
-| ![](screenshots/colorPrint.png) |
-|:-------------------------------:|
-| ![](screenshots/particles.png)  |
 
 
 
 Description
 ------------
 
- This project provides librairies to solve the Navier-Stokes equation,
+ This project provides open-source librairies to solve the Navier-Stokes equations based on Jos Stam paper,
  and an interface to simulate a fluid in 2D. 
 
  The source code can be found in the following directories:
@@ -75,6 +75,12 @@ Shortcuts
 Any movement of the fingers tips in the vertical plane above the Leap Motion will be translated as a velocity modification.
 If a finger tip is crossing that plane, some fluid density will be injected into the system.
 
+Screenshots
+---------
+
+| ![](screenshots/colorPrint.png) |
+|:-------------------------------:|
+| ![](screenshots/particles.png)  |
 
 Credits
 ---------
