@@ -3,7 +3,7 @@ FluidSolver
 
 Real time 2D simulator of fluid mechanics in C++/Qt/OpenGl.
 
-See on youtube: [https://www.youtube.com/watch?v=i2-zOoBbdk0](https://www.youtube.com/watch?v=i2-zOoBbdk0)
+Watch a demo on youtube: [https://www.youtube.com/watch?v=i2-zOoBbdk0](https://www.youtube.com/watch?v=i2-zOoBbdk0)
 [![https://www.youtube.com/watch?v=i2-zOoBbdk0](https://img.youtube.com/vi/i2-zOoBbdk0/0.jpg)](
 https://www.youtube.com/watch?v=i2-zOoBbdk0)
 
