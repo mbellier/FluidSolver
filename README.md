@@ -8,7 +8,7 @@ Watch a demo on youtube: [https://www.youtube.com/watch?v=i2-zOoBbdk0](https://w
 https://www.youtube.com/watch?v=i2-zOoBbdk0)
 
 
-
+License: Apache v2.0
 
 
 
